@@ -9,3 +9,17 @@
   font-family: fantasy;
   font-style: oblique;
 }
+
+h2.intro {
+  color: #ffad33;
+  font-weight: 500;
+}
+p.intro {
+  color: #ff4dd2;
+  font-family: sans-serif;
+}
+
+img.intro {
+  width: 450px;
+  height: 250px;
+}
